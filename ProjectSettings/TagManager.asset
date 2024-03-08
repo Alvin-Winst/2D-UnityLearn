@@ -8,6 +8,7 @@ TagManager:
   - Trap
   - Prop Platform
   - Trampoline
+  - Normal Platform
   layers:
   - Default
   - TransparentFX

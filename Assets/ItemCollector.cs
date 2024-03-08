@@ -6,7 +6,7 @@ using TMPro;
 
 public class ItemCollector : MonoBehaviour
 {
-    private int pineapples = 0;
+    [HideInInspector] public int pineapples = 0;
     [SerializeField] private TMP_Text pineapplesText;
     [SerializeField] private AudioSource collectSFX;
 
